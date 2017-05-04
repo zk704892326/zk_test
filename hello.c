@@ -4,7 +4,7 @@
 	> Mail: ma6174@163.com 
 	> Created Time: 四  5/ 4 10:57:27 2017
  ************************************************************************/
-inclued<stido.h>
+include<stido.h>
 
 int mian(int argc,char* argv)
 {
